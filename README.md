@@ -1,2 +1,3 @@
 # hello-world
-Baby's first repository
+
+This is my first branch. Trying to learn how to use Github.
